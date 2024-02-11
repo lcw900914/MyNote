@@ -8,12 +8,8 @@
 
 ctrl+e 可以開啟原始碼
 
-
-
 ## 圖片設定使用
 
 > 為了可以讓 圖片默認相對位置 ， C+V貼上的時候不需要手動調整位置
 
-
-
-
+![無法顯示圖片](C:\Users\tt103\AppData\Roaming\marktext\images\2024-02-11-15-39-53-image.png)
