@@ -8,6 +8,14 @@
 
 ctrl+e 可以開啟原始碼
 
+
+
+# 
+
+
+
+
+
 ## 圖片設定使用
 
 > 為了可以讓 圖片默認相對位置 ， C+V貼上的時候不需要手動調整位置
@@ -21,10 +29,6 @@ ctrl+e 可以開啟原始碼
 ![](images/2024-02-11-15-54-04-image.png)
 
 ![](images/2024-02-11-15-53-26-image.png)
-
-
-
-
 
 ## git 操作供比對
 
@@ -60,3 +64,7 @@ Date:   Sun Feb 11 15:42:49 2024 +0800
 
 C:\Users\tt103\Desktop\LearnMarkText>git push --force origin master
 ```
+
+## git log 操作
+
+![2024-02-11-15-58-23-image.png](images/84263227bcd2f66a64256118ec32c844f71ce332.png)
