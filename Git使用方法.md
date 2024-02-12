@@ -113,3 +113,15 @@ Marktext : https://www.marktext.cc/
 - git branch -m [old name] [new name]
 
         更改分支名。
+
+- git push origin v1:master
+  
+  如果現在本地的`branch`是v1，而你想將v1的`commit`push到master，可以使用此指令。
+
+- git merge OtherBranchName
+  
+  將讓目前的`branch`包含OtherBranchName這個`branch`的最新進度。
+
+#### 
+
+#### 使用範例
