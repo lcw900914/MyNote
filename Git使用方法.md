@@ -2,6 +2,10 @@
 
 ## 初次使用
 
+Git : [Git - Downloads](https://git-scm.com/downloads)
+
+Marktext : https://www.marktext.cc/
+
 以下將示範初次使用之步驟
 
 > 建立一個資料夾
