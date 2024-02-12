@@ -62,8 +62,6 @@
 
 <img title="" src="images/2024-02-12-17-19-35-image.png" alt="" data-align="center" width="522">
 
-
-
 ## 指令說明
 
 - git init
